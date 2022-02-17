@@ -1,0 +1,45 @@
+h3 {
+    font-family: "Yu Gothic UI Semibold", ui-rounded;
+    font-size: large;
+    color: red;
+}
+
+body {
+    background-image: url("image_bg.png");
+    width: 2700px;
+    height: 1200px;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 750px;
+    font-family: "Nirmala UI", sans-serif;
+    color: mediumblue;
+    background-blend-mode: color;
+
+}
+
+ul.a {
+    list-style-type: circle;
+}
+
+li.a {
+    list-style-type: square;
+}
+
+li.b {
+    list-style-type: circle;
+}
+
+li {
+    font-family: "Dubai Medium", monospace;
+    color: cornflowerblue;
+    padding: 4px;
+}
+
+td {
+    font-family: Ebrima, monospace;
+    font-size: medium;
+    color: firebrick;
+    padding: 5px 35px 5px 5px;
+}
+
+
